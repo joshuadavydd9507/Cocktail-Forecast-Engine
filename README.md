@@ -68,22 +68,17 @@ Key outputs include:
 
 ---
 
-## Example Outputs
-
-## Example Outputs
-
 ### Monthly Gross Profit Trend
 
-![Monthly Gross Profit Trend](./exports/13H_monthly_gross_profit_trend.png)
+![Monthly Gross Profit Trend](./exports/charts/13H_monthly_gross_profit_trend.png)
 
 ### Top Cocktails by Gross Profit
 
-![Top Cocktails by Gross Profit](./exports/13I_top_cocktails_by_gp.png)
+![Top Cocktails by Gross Profit](./exports/charts/13I_top_cocktails_by_gp.png)
 
 ### KI NO BI Bottle Usage Forecast
 
-![KI NO BI Bottle Usage Forecast](./exports/13K_kino_bottle_progress.png
-
+![KI NO BI Bottle Usage Forecast](./exports/charts/13K_kino_bottle_progress.png)
 ---
 
 ## Tools Used
